@@ -1,0 +1,5 @@
+# Node modules
+node_modules
+
+# Macos junk
+.DS_Store
